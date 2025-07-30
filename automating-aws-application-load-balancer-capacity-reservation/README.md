@@ -19,6 +19,7 @@ This centralized approach efficiently manages hundreds of ALBs across accounts w
 ### Using CloudFormation Templates
 
 > Management Account: ALBCapacityAutomationMgmtAccount.YAML
+>
 > Member Account(s): ALBCapacityAutomationMemberAccount.YAML
 
 
